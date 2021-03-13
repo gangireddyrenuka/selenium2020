@@ -1,0 +1,13 @@
+<!--comment-->
+<suite name="google Test">
+<test name ="google feature test">
+
+    <classes>
+        <class name="googleTest.ExceptionTimeOut"/>
+         <class name="googleTest.GoogleTest"/>
+         <class name="googleTest.InvocationCountTest"/>
+         <class name="googleTest.TestngBasics"/>
+          <class name="googleTest.TestNGFeatures"/>
+    </classes>
+</test>
+</suite>
